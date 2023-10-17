@@ -1,0 +1,13 @@
+{
+  "hasSrc": false,
+  "packages": [
+    "prisma",
+    "next-auth",
+    "shadcn-ui"
+  ],
+  "preferredPackageManager": "pnpm",
+  "rootPath": "",
+  "orm": "prisma",
+  "driver": "sqlite",
+  "auth": "next-auth"
+}

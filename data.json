@@ -1,0 +1,1898 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": "White Sweater T-Shirt",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Crafted from a luxurious blend of 70% cotton and 30% cashmere,",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This shirt features a relaxed fit, with short sleeves that boast a delicate ribbed hem, mirroring the subtle ribbing at the neckline and waist. Its minimalist design ensures it pairs seamlessly with both casual and more formal ensembles.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 15,
+        "category": "topRated",
+        "createdAt": "2023-10-08T11:26:16.777Z",
+        "updatedAt": "2023-10-08T11:26:18.634Z",
+        "publishedAt": "2023-10-08T11:26:18.628Z",
+        "image": {
+          "data": {
+            "id": 20,
+            "attributes": {
+              "name": "andreea-chidu-FPV2_FbNHoE-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 960,
+              "formats": {
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f.jpeg",
+                  "hash": "small_andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f",
+                  "mime": "image/jpeg",
+                  "name": "small_andreea-chidu-FPV2_FbNHoE-unsplash.jpeg",
+                  "path": null,
+                  "size": 11.49,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f.jpeg",
+                  "hash": "medium_andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f",
+                  "mime": "image/jpeg",
+                  "name": "medium_andreea-chidu-FPV2_FbNHoE-unsplash.jpeg",
+                  "path": null,
+                  "size": 23.37,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f.jpeg",
+                  "hash": "thumbnail_andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_andreea-chidu-FPV2_FbNHoE-unsplash.jpeg",
+                  "path": null,
+                  "size": 2.18,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 36.14,
+              "url": "/uploads/andreea_chidu_FPV_2_Fb_N_Ho_E_unsplash_7159983b2f.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:53:57.600Z",
+              "updatedAt": "2023-10-08T09:53:57.600Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "Midnight Serenade T-Shirt",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Soft cotton tee with night sky print",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " Dive into the tranquility of the night with our Midnight Serenade T-Shirt. Crafted from 100% organic cotton, this tee showcases a mesmerizing night sky print, perfect for dreamers and star gazers.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 25.99,
+        "category": "newArrivals",
+        "createdAt": "2023-10-08T11:29:59.614Z",
+        "updatedAt": "2023-10-08T11:29:59.614Z",
+        "publishedAt": "2023-10-08T13:05:29.736Z",
+        "image": {
+          "data": {
+            "id": 36,
+            "attributes": {
+              "name": "uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 2880,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9.jpeg",
+                  "hash": "large_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9",
+                  "mime": "image/jpeg",
+                  "name": "large_uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 69.79,
+                  "width": 667,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9.jpeg",
+                  "hash": "small_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9",
+                  "mime": "image/jpeg",
+                  "name": "small_uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 22.56,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9.jpeg",
+                  "hash": "medium_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9",
+                  "mime": "image/jpeg",
+                  "name": "medium_uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 43.65,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9.jpeg",
+                  "hash": "thumbnail_uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 3.7,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 363.01,
+              "url": "/uploads/uji_kanggo_gumilang_s_Mn0sx_R8v2_E_unsplash_f31f7ee6e9.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:04.871Z",
+              "updatedAt": "2023-10-08T09:54:04.871Z"
+            }
+          }
+        }
+      }
+    // },
+    // {
+    //   "id": 4,
+    //   "attributes": {
+    //     "name": " Tropical Retreat Tee",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Relaxed tee with tropical print.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Escape to paradise each time you wear our Tropical Retreat Tee. Made from soft cotton, its vibrant tropical print is a vacation for your wardrobe.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 29.9,
+    //     "category": "topRated",
+    //     "createdAt": "2023-10-08T11:31:26.940Z",
+    //     "updatedAt": "2023-10-08T11:31:26.940Z",
+    //     "publishedAt": "2023-10-08T13:05:29.736Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 40,
+    //         "attributes": {
+    //           "name": "diego-vedita-PW1EOs9R-Xw-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 960,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e.jpeg",
+    //               "hash": "small_diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e",
+    //               "mime": "image/jpeg",
+    //               "name": "small_diego-vedita-PW1EOs9R-Xw-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 22.65,
+    //               "width": 333,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e.jpeg",
+    //               "hash": "medium_diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_diego-vedita-PW1EOs9R-Xw-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 43.22,
+    //               "width": 500,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e.jpeg",
+    //               "hash": "thumbnail_diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_diego-vedita-PW1EOs9R-Xw-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 3.92,
+    //               "width": 104,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 62.98,
+    //           "url": "/uploads/diego_vedita_PW_1_E_Os9_R_Xw_unsplash_50aece2e6e.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:31.856Z",
+    //           "updatedAt": "2023-10-08T09:54:31.856Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 5,
+    //   "attributes": {
+    //     "name": "Classic Oxford Tshirt",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Timeless white Oxford with button-down collar.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "A wardrobe staple, our Classic Oxford Shirt, made with premium cotton, offers sophistication and versatility for any occasion.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       },
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Price: $50.00",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 14.9,
+    //     "category": "topRated",
+    //     "createdAt": "2023-10-08T11:32:23.332Z",
+    //     "updatedAt": "2023-10-08T11:32:23.332Z",
+    //     "publishedAt": "2023-10-08T13:05:29.736Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 38,
+    //         "attributes": {
+    //           "name": "christian-bolt-VW5VjskNXZ8-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 960,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7.jpeg",
+    //               "hash": "small_christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7",
+    //               "mime": "image/jpeg",
+    //               "name": "small_christian-bolt-VW5VjskNXZ8-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 16.7,
+    //               "width": 333,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7.jpeg",
+    //               "hash": "medium_christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_christian-bolt-VW5VjskNXZ8-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 32.01,
+    //               "width": 500,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7.jpeg",
+    //               "hash": "thumbnail_christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_christian-bolt-VW5VjskNXZ8-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 2.96,
+    //               "width": 104,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 46.59,
+    //           "url": "/uploads/christian_bolt_VW_5_Vjsk_NXZ_8_unsplash_f0e83b86a7.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:31.320Z",
+    //           "updatedAt": "2023-10-08T09:54:31.320Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 6,
+    //   "attributes": {
+    //     "name": "Abstract Art T-Shirt",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Cotton tee with modern abstract design.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Celebrate contemporary art with this soft tee. Its captivating abstract design is perfect for those wanting to make a style statement.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 28.5,
+    //     "category": "newArrivals",
+    //     "createdAt": "2023-10-08T11:33:18.770Z",
+    //     "updatedAt": "2023-10-08T11:33:18.770Z",
+    //     "publishedAt": "2023-10-08T13:05:29.736Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 35,
+    //         "attributes": {
+    //           "name": "taylor-dG4Eb_oC5iM-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 800,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02.jpeg",
+    //               "hash": "small_taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02",
+    //               "mime": "image/jpeg",
+    //               "name": "small_taylor-dG4Eb_oC5iM-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 35.66,
+    //               "width": 400,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02.jpeg",
+    //               "hash": "medium_taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_taylor-dG4Eb_oC5iM-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 76.08,
+    //               "width": 600,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02.jpeg",
+    //               "hash": "thumbnail_taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_taylor-dG4Eb_oC5iM-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 4.62,
+    //               "width": 125,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 86,
+    //           "url": "/uploads/taylor_d_G4_Eb_o_C5i_M_unsplash_584a9b0a02.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:03.946Z",
+    //           "updatedAt": "2023-10-08T09:54:03.946Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 7,
+    //   "attributes": {
+    //     "name": " Denim Dream Sweater",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Light-washed, relaxed-fit denim Sweater",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Our Denim Dream Sweater offers a perfect blend of comfort and style. The light wash gives it a vintage vibe, making it a trendy addition to your",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 55,
+    //     "category": "bestSellers",
+    //     "createdAt": "2023-10-08T11:34:20.419Z",
+    //     "updatedAt": "2023-10-08T11:34:20.419Z",
+    //     "publishedAt": "2023-10-08T13:05:29.736Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 37,
+    //         "attributes": {
+    //           "name": "christian-bolt-WhnbNX5yeJo-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 960,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303.jpeg",
+    //               "hash": "small_christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303",
+    //               "mime": "image/jpeg",
+    //               "name": "small_christian-bolt-WhnbNX5yeJo-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 16.11,
+    //               "width": 333,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303.jpeg",
+    //               "hash": "medium_christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_christian-bolt-WhnbNX5yeJo-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 31.68,
+    //               "width": 500,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303.jpeg",
+    //               "hash": "thumbnail_christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_christian-bolt-WhnbNX5yeJo-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 2.91,
+    //               "width": 104,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 47.97,
+    //           "url": "/uploads/christian_bolt_Whnb_NX_5ye_Jo_unsplash_21d3ec5303.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:31.319Z",
+    //           "updatedAt": "2023-10-08T09:54:31.319Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 3,
+    //   "attributes": {
+    //     "name": "Urban Explorer Button-Up",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Modern-fit city-themed printed shirt.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Designed for the urban adventurer, this modern-fit shirt boasts a city skyline print. Made from breathable fabric, it's perfect for city escapades or casual office days.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 45,
+    //     "category": "bestSellers",
+    //     "createdAt": "2023-10-08T11:30:43.728Z",
+    //     "updatedAt": "2023-10-08T11:30:43.728Z",
+    //     "publishedAt": "2023-10-08T13:05:46.252Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 34,
+    //         "attributes": {
+    //           "name": "raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 960,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //               "hash": "small_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //               "mime": "image/jpeg",
+    //               "name": "small_raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 13.47,
+    //               "width": 333,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //               "hash": "medium_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 24.07,
+    //               "width": 500,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //               "hash": "thumbnail_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 2.58,
+    //               "width": 104,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 33.54,
+    //           "url": "/uploads/raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:03.892Z",
+    //           "updatedAt": "2023-10-08T09:54:03.892Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 9,
+    //   "attributes": {
+    //     "name": "Nautical Stripe Shirt",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Classic striped button-up in navy and white.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": " Inspired by the sea, our Nautical Stripe Shirt is perfect for those who love timeless style. Made from breathable fabric, it's a sailor's dream come true.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 48.99,
+    //     "category": "newArrivals",
+    //     "createdAt": "2023-10-08T11:36:29.437Z",
+    //     "updatedAt": "2023-10-08T11:36:29.437Z",
+    //     "publishedAt": "2023-10-08T13:05:46.252Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 34,
+    //         "attributes": {
+    //           "name": "raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 960,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //               "hash": "small_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //               "mime": "image/jpeg",
+    //               "name": "small_raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 13.47,
+    //               "width": 333,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //               "hash": "medium_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 24.07,
+    //               "width": 500,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //               "hash": "thumbnail_raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_raoul-croes-q3NX2NbbYmI-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 2.58,
+    //               "width": 104,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 33.54,
+    //           "url": "/uploads/raoul_croes_q3_NX_2_Nbb_Ym_I_unsplash_48ec4bd3d7.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:03.892Z",
+    //           "updatedAt": "2023-10-08T09:54:03.892Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 10,
+    //   "attributes": {
+    //     "name": "Vintage Vibes Tee",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Retro graphic tee with a faded finish.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": " Embrace nostalgia with our Vintage Vibes T-Shirt. Made with 100% soft cotton, this tee showcases a retro graphic, enhanced by a faded finish for an authentic vintage feel.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 30,
+    //     "category": "newArrivals",
+    //     "createdAt": "2023-10-08T11:37:35.202Z",
+    //     "updatedAt": "2023-10-08T11:37:35.202Z",
+    //     "publishedAt": "2023-10-08T13:05:46.252Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 32,
+    //         "attributes": {
+    //           "name": "suhendro-purnomo-f0oLkvrnVOo-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 960,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835.jpeg",
+    //               "hash": "small_suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835",
+    //               "mime": "image/jpeg",
+    //               "name": "small_suhendro-purnomo-f0oLkvrnVOo-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 22.72,
+    //               "width": 333,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835.jpeg",
+    //               "hash": "medium_suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_suhendro-purnomo-f0oLkvrnVOo-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 41.15,
+    //               "width": 500,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835.jpeg",
+    //               "hash": "thumbnail_suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_suhendro-purnomo-f0oLkvrnVOo-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 3.99,
+    //               "width": 104,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 57.46,
+    //           "url": "/uploads/suhendro_purnomo_f0o_Lkvrn_V_Oo_unsplash_a0c330e835.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:03.533Z",
+    //           "updatedAt": "2023-10-08T09:54:03.533Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+    //   "id": 11,
+    //   "attributes": {
+    //     "name": "Sleek Satin Blouse",
+    //     "shortDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Luxurious satin button-up in a sleek design.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "longDescription": [
+    //       {
+    //         "type": "paragraph",
+    //         "children": [
+    //           {
+    //             "text": "Elevate your outfit with the shimmering elegance of our Sleek Satin Blouse. Its fluid silhouette ensures a flattering fit, while the soft satin provides a touch of luxury.",
+    //             "type": "text"
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "price": 60,
+    //     "category": "topRated",
+    //     "createdAt": "2023-10-08T11:38:23.424Z",
+    //     "updatedAt": "2023-10-08T11:38:23.424Z",
+    //     "publishedAt": "2023-10-08T11:46:55.867Z",
+    //     "image": {
+    //       "data": {
+    //         "id": 27,
+    //         "attributes": {
+    //           "name": "laura-chouette-LXHyNufB8Ds-unsplash.jpeg",
+    //           "alternativeText": null,
+    //           "caption": null,
+    //           "width": 640,
+    //           "height": 853,
+    //           "formats": {
+    //             "small": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/small_laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234.jpeg",
+    //               "hash": "small_laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234",
+    //               "mime": "image/jpeg",
+    //               "name": "small_laura-chouette-LXHyNufB8Ds-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 16.94,
+    //               "width": 375,
+    //               "height": 500
+    //             },
+    //             "medium": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/medium_laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234.jpeg",
+    //               "hash": "medium_laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234",
+    //               "mime": "image/jpeg",
+    //               "name": "medium_laura-chouette-LXHyNufB8Ds-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 37.46,
+    //               "width": 563,
+    //               "height": 750
+    //             },
+    //             "thumbnail": {
+    //               "ext": ".jpeg",
+    //               "url": "/uploads/thumbnail_laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234.jpeg",
+    //               "hash": "thumbnail_laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234",
+    //               "mime": "image/jpeg",
+    //               "name": "thumbnail_laura-chouette-LXHyNufB8Ds-unsplash.jpeg",
+    //               "path": null,
+    //               "size": 2.74,
+    //               "width": 117,
+    //               "height": 156
+    //             }
+    //           },
+    //           "hash": "laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234",
+    //           "ext": ".jpeg",
+    //           "mime": "image/jpeg",
+    //           "size": 47.66,
+    //           "url": "/uploads/laura_chouette_LX_Hy_Nuf_B8_Ds_unsplash_bb44490234.jpeg",
+    //           "previewUrl": null,
+    //           "provider": "local",
+    //           "provider_metadata": null,
+    //           "createdAt": "2023-10-08T09:54:01.946Z",
+    //           "updatedAt": "2023-10-08T09:54:01.946Z"
+    //         }
+    //       }
+    //     }
+    //   }
+    // },
+    // {
+      "id": 12,
+      "attributes": {
+        "name": "Wanderlust World Tee",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Tee with a global map print for travelers.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Designed for globe-trotters, our Wanderlust World Tee captures the spirit of adventure with its detailed map print on premium cotton material.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 33,
+        "category": "bestSellers",
+        "createdAt": "2023-10-08T11:39:07.186Z",
+        "updatedAt": "2023-10-08T11:39:07.186Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 31,
+            "attributes": {
+              "name": "patrik-velich-v9eKhg8YaOA-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 960,
+              "formats": {
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af.jpeg",
+                  "hash": "small_patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af",
+                  "mime": "image/jpeg",
+                  "name": "small_patrik-velich-v9eKhg8YaOA-unsplash.jpeg",
+                  "path": null,
+                  "size": 22.08,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af.jpeg",
+                  "hash": "medium_patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af",
+                  "mime": "image/jpeg",
+                  "name": "medium_patrik-velich-v9eKhg8YaOA-unsplash.jpeg",
+                  "path": null,
+                  "size": 40.16,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af.jpeg",
+                  "hash": "thumbnail_patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_patrik-velich-v9eKhg8YaOA-unsplash.jpeg",
+                  "path": null,
+                  "size": 4.07,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 56.12,
+              "url": "/uploads/patrik_velich_v9e_Khg8_Ya_OA_unsplash_8d9497f2af.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:03.487Z",
+              "updatedAt": "2023-10-08T09:54:03.487Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "name": "Tailored Tweed Shirt",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sophisticated tweed shirt with a tailored fit.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Showcasing classic craftsmanship, our Tailored Tweed Shirt is a blend of tradition and style. Perfect for formal occasions or making a statement.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 70,
+        "category": "topRated",
+        "createdAt": "2023-10-08T11:39:53.272Z",
+        "updatedAt": "2023-10-08T11:39:53.272Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 30,
+            "attributes": {
+              "name": "kevin-gil-musngi-eCikWiyY6IY-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 2880,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a.jpeg",
+                  "hash": "large_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a",
+                  "mime": "image/jpeg",
+                  "name": "large_kevin-gil-musngi-eCikWiyY6IY-unsplash.jpeg",
+                  "path": null,
+                  "size": 94.37,
+                  "width": 667,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a.jpeg",
+                  "hash": "small_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a",
+                  "mime": "image/jpeg",
+                  "name": "small_kevin-gil-musngi-eCikWiyY6IY-unsplash.jpeg",
+                  "path": null,
+                  "size": 32.54,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a.jpeg",
+                  "hash": "medium_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a",
+                  "mime": "image/jpeg",
+                  "name": "medium_kevin-gil-musngi-eCikWiyY6IY-unsplash.jpeg",
+                  "path": null,
+                  "size": 60.39,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a.jpeg",
+                  "hash": "thumbnail_kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_kevin-gil-musngi-eCikWiyY6IY-unsplash.jpeg",
+                  "path": null,
+                  "size": 5.35,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 585.48,
+              "url": "/uploads/kevin_gil_musngi_e_Cik_Wiy_Y6_IY_unsplash_63db58069a.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:02.427Z",
+              "updatedAt": "2023-10-08T09:54:02.427Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "name": "Cosmic Constellation Tee",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Dark tee featuring shimmering constellations.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Dive into the cosmos with our Cosmic Constellation Tee. With a starry design on a dark background, it's perfect for those fascinated by the mysteries of the universe.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 35,
+        "category": "bestSellers",
+        "createdAt": "2023-10-08T11:40:34.807Z",
+        "updatedAt": "2023-10-08T11:40:34.807Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 29,
+            "attributes": {
+              "name": "mohamad-javad-barakouhi-rJvs1om1G0o-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 822,
+              "formats": {
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69.jpeg",
+                  "hash": "small_mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69",
+                  "mime": "image/jpeg",
+                  "name": "small_mohamad-javad-barakouhi-rJvs1om1G0o-unsplash.jpeg",
+                  "path": null,
+                  "size": 22.82,
+                  "width": 389,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69.jpeg",
+                  "hash": "medium_mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69",
+                  "mime": "image/jpeg",
+                  "name": "medium_mohamad-javad-barakouhi-rJvs1om1G0o-unsplash.jpeg",
+                  "path": null,
+                  "size": 43.82,
+                  "width": 584,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69.jpeg",
+                  "hash": "thumbnail_mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_mohamad-javad-barakouhi-rJvs1om1G0o-unsplash.jpeg",
+                  "path": null,
+                  "size": 3.57,
+                  "width": 122,
+                  "height": 156
+                }
+              },
+              "hash": "mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 50.7,
+              "url": "/uploads/mohamad_javad_barakouhi_r_Jvs1om1_G0o_unsplash_3b22e3ef69.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:02.406Z",
+              "updatedAt": "2023-10-08T09:54:02.406Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "name": " Linen Breeze Shirt",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Lightweight linen shirt in pastel shades.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Enjoy the comfort of our Linen Breeze Shirt. Crafted from 100% pure linen, it's breathable and perfect for warm weather, keeping you stylish and cool.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 32,
+        "category": "bestSellers",
+        "createdAt": "2023-10-08T11:41:25.569Z",
+        "updatedAt": "2023-10-08T11:41:25.569Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 26,
+            "attributes": {
+              "name": "kai-gabriel-2s3GhhJz2uY-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 2880,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df.jpeg",
+                  "hash": "large_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df",
+                  "mime": "image/jpeg",
+                  "name": "large_kai-gabriel-2s3GhhJz2uY-unsplash.jpeg",
+                  "path": null,
+                  "size": 53.79,
+                  "width": 667,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df.jpeg",
+                  "hash": "small_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df",
+                  "mime": "image/jpeg",
+                  "name": "small_kai-gabriel-2s3GhhJz2uY-unsplash.jpeg",
+                  "path": null,
+                  "size": 18.05,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df.jpeg",
+                  "hash": "medium_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df",
+                  "mime": "image/jpeg",
+                  "name": "medium_kai-gabriel-2s3GhhJz2uY-unsplash.jpeg",
+                  "path": null,
+                  "size": 33.94,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df.jpeg",
+                  "hash": "thumbnail_kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_kai-gabriel-2s3GhhJz2uY-unsplash.jpeg",
+                  "path": null,
+                  "size": 3.52,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 323.58,
+              "url": "/uploads/kai_gabriel_2s3_Ghh_Jz2u_Y_unsplash_bd9f8329df.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:01.667Z",
+              "updatedAt": "2023-10-08T09:54:01.667Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "name": "Street-style tee with graffiti graphics.",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Street-style tee with graffiti graphics.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " Infuse urban style into your wardrobe with our Urban Graffiti Tee. Celebrating street art, this tee is a canvas for contemporary design.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 32,
+        "category": "bestSellers",
+        "createdAt": "2023-10-08T11:42:25.849Z",
+        "updatedAt": "2023-10-08T11:42:25.849Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 25,
+            "attributes": {
+              "name": "faith-yarn-jX2cntCbrAo-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 2880,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb.jpeg",
+                  "hash": "large_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb",
+                  "mime": "image/jpeg",
+                  "name": "large_faith-yarn-jX2cntCbrAo-unsplash.jpeg",
+                  "path": null,
+                  "size": 52.63,
+                  "width": 667,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb.jpeg",
+                  "hash": "small_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb",
+                  "mime": "image/jpeg",
+                  "name": "small_faith-yarn-jX2cntCbrAo-unsplash.jpeg",
+                  "path": null,
+                  "size": 15.91,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb.jpeg",
+                  "hash": "medium_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb",
+                  "mime": "image/jpeg",
+                  "name": "medium_faith-yarn-jX2cntCbrAo-unsplash.jpeg",
+                  "path": null,
+                  "size": 31.46,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb.jpeg",
+                  "hash": "thumbnail_faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_faith-yarn-jX2cntCbrAo-unsplash.jpeg",
+                  "path": null,
+                  "size": 2.96,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 373.65,
+              "url": "/uploads/faith_yarn_j_X2cnt_Cbr_Ao_unsplash_c3e2f613fb.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:00.742Z",
+              "updatedAt": "2023-10-08T09:54:00.742Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "name": "Regal Ruffles Blouse",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Elegant blouse with ruffled detailing.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": " Our Regal Ruffles Blouse embodies sophistication. The delicate ruffled detailing and soft fabric make it a chic addition to any ensemble.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 58,
+        "category": "topRated",
+        "createdAt": "2023-10-08T11:43:27.094Z",
+        "updatedAt": "2023-10-08T11:43:27.094Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "brian-lawson-jRztw-pVdyk-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2624,
+              "height": 3936,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be.jpeg",
+                  "hash": "large_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be",
+                  "mime": "image/jpeg",
+                  "name": "large_brian-lawson-jRztw-pVdyk-unsplash.jpeg",
+                  "path": null,
+                  "size": 97.14,
+                  "width": 667,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be.jpeg",
+                  "hash": "small_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be",
+                  "mime": "image/jpeg",
+                  "name": "small_brian-lawson-jRztw-pVdyk-unsplash.jpeg",
+                  "path": null,
+                  "size": 28.8,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be.jpeg",
+                  "hash": "medium_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be",
+                  "mime": "image/jpeg",
+                  "name": "medium_brian-lawson-jRztw-pVdyk-unsplash.jpeg",
+                  "path": null,
+                  "size": 56.96,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be.jpeg",
+                  "hash": "thumbnail_brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_brian-lawson-jRztw-pVdyk-unsplash.jpeg",
+                  "path": null,
+                  "size": 4.44,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 1423.74,
+              "url": "/uploads/brian_lawson_j_Rztw_p_Vdyk_unsplash_1bb0fbb0be.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:00.693Z",
+              "updatedAt": "2023-10-08T09:54:00.693Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "name": "Mountain Majesty Tee",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Nature-inspired tee with a mountainous landscape.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Ideal for nature lovers, our Mountain Majesty Tee showcases a serene mountainous landscape. Its soft fabric ensures comfort on all your adventures.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 17,
+        "category": "topRated",
+        "createdAt": "2023-10-08T11:44:15.809Z",
+        "updatedAt": "2023-10-08T11:44:15.809Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "florencia-simonini-PDZAMYvduVk-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 960,
+              "formats": {
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c.jpeg",
+                  "hash": "small_florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c",
+                  "mime": "image/jpeg",
+                  "name": "small_florencia-simonini-PDZAMYvduVk-unsplash.jpeg",
+                  "path": null,
+                  "size": 18.43,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c.jpeg",
+                  "hash": "medium_florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c",
+                  "mime": "image/jpeg",
+                  "name": "medium_florencia-simonini-PDZAMYvduVk-unsplash.jpeg",
+                  "path": null,
+                  "size": 36.51,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c.jpeg",
+                  "hash": "thumbnail_florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_florencia-simonini-PDZAMYvduVk-unsplash.jpeg",
+                  "path": null,
+                  "size": 3.16,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 54.39,
+              "url": "/uploads/florencia_simonini_PDZAM_Yvdu_Vk_unsplash_f23d28dc5c.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:00.640Z",
+              "updatedAt": "2023-10-08T09:54:00.640Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "name": "Checkmate Classic Shirt",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Traditional checkered shirt in a modern fit.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A timeless design meets contemporary fit in our Checkmate Classic Shirt. Made with soft, breathable material, it's perfect for both work and play.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 27,
+        "category": "newArrivals",
+        "createdAt": "2023-10-08T11:45:08.965Z",
+        "updatedAt": "2023-10-08T11:45:08.965Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 28,
+            "attributes": {
+              "name": "laura-chouette-q4Wrsho-t2E-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 853,
+              "formats": {
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec.jpeg",
+                  "hash": "small_laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec",
+                  "mime": "image/jpeg",
+                  "name": "small_laura-chouette-q4Wrsho-t2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 15.51,
+                  "width": 375,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec.jpeg",
+                  "hash": "medium_laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec",
+                  "mime": "image/jpeg",
+                  "name": "medium_laura-chouette-q4Wrsho-t2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 28.82,
+                  "width": 563,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec.jpeg",
+                  "hash": "thumbnail_laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_laura-chouette-q4Wrsho-t2E-unsplash.jpeg",
+                  "path": null,
+                  "size": 2.95,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 34.42,
+              "url": "/uploads/laura_chouette_q4_Wrsho_t2_E_unsplash_7dafbee7ec.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:02.176Z",
+              "updatedAt": "2023-10-08T09:54:02.176Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "name": "Bohemian Spirit Tee",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Tee with boho-inspired patterns and designs.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Express your free spirit with our Bohemian Spirit Tee. Its vibrant patterns and soft cotton material make it a standout piece for any casual occasion.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 29,
+        "category": "bestSellers",
+        "createdAt": "2023-10-08T11:45:58.830Z",
+        "updatedAt": "2023-10-08T11:45:58.830Z",
+        "publishedAt": "2023-10-08T11:46:55.867Z",
+        "image": {
+          "data": {
+            "id": 21,
+            "attributes": {
+              "name": "alex-hddife-6wWiZlA2n0Q-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 2889,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d.jpeg",
+                  "hash": "large_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d",
+                  "mime": "image/jpeg",
+                  "name": "large_alex-hddife-6wWiZlA2n0Q-unsplash.jpeg",
+                  "path": null,
+                  "size": 43.15,
+                  "width": 665,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d.jpeg",
+                  "hash": "small_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d",
+                  "mime": "image/jpeg",
+                  "name": "small_alex-hddife-6wWiZlA2n0Q-unsplash.jpeg",
+                  "path": null,
+                  "size": 14.5,
+                  "width": 332,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d.jpeg",
+                  "hash": "medium_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d",
+                  "mime": "image/jpeg",
+                  "name": "medium_alex-hddife-6wWiZlA2n0Q-unsplash.jpeg",
+                  "path": null,
+                  "size": 27.68,
+                  "width": 499,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d.jpeg",
+                  "hash": "thumbnail_alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_alex-hddife-6wWiZlA2n0Q-unsplash.jpeg",
+                  "path": null,
+                  "size": 2.34,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 201.94,
+              "url": "/uploads/alex_hddife_6w_Wi_Zl_A2n0_Q_unsplash_842f72231d.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:53:58.021Z",
+              "updatedAt": "2023-10-08T09:53:58.021Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "name": "Floral Fantasy Tee",
+        "shortDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Soft tee with elegant floral motif.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "longDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "lossom with style in our Floral Fantasy Tee. The elegant floral design on a background of soft cotton ensures comfort and elegance.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "price": 27,
+        "category": "topRated",
+        "createdAt": "2023-10-08T11:35:12.644Z",
+        "updatedAt": "2023-10-08T11:35:12.644Z",
+        "publishedAt": "2023-10-08T13:05:29.736Z",
+        "image": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "mohammad-faruque-0ZYPu-nLOwU-unsplash.jpeg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1920,
+              "height": 2880,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d.jpeg",
+                  "hash": "large_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d",
+                  "mime": "image/jpeg",
+                  "name": "large_mohammad-faruque-0ZYPu-nLOwU-unsplash.jpeg",
+                  "path": null,
+                  "size": 101.76,
+                  "width": 667,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d.jpeg",
+                  "hash": "small_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d",
+                  "mime": "image/jpeg",
+                  "name": "small_mohammad-faruque-0ZYPu-nLOwU-unsplash.jpeg",
+                  "path": null,
+                  "size": 32.12,
+                  "width": 333,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d.jpeg",
+                  "hash": "medium_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d",
+                  "mime": "image/jpeg",
+                  "name": "medium_mohammad-faruque-0ZYPu-nLOwU-unsplash.jpeg",
+                  "path": null,
+                  "size": 62.65,
+                  "width": 500,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d.jpeg",
+                  "hash": "thumbnail_mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_mohammad-faruque-0ZYPu-nLOwU-unsplash.jpeg",
+                  "path": null,
+                  "size": 4.92,
+                  "width": 104,
+                  "height": 156
+                }
+              },
+              "hash": "mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 770.74,
+              "url": "/uploads/mohammad_faruque_0_ZY_Pu_n_L_Ow_U_unsplash_ecff64f97d.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-08T09:54:03.727Z",
+              "updatedAt": "2023-10-08T09:54:03.727Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 20
+    }
+  }
+}
