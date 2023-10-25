@@ -165,6 +165,7 @@ export default function NewProductForm() {
               <FormItem className='flex flex-row items-start p-4 space-x-3 space-y-0 border rounded-md'>
                 <FormControl>
                   <Checkbox
+                    defaultChecked
                     checked={field.value}
                     onCheckedChange={field.onChange}
                   />
